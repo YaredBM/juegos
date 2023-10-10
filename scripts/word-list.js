@@ -20,7 +20,7 @@ const wordList = [
         hint: "Proceso de crear aplicaciones y sitios web."
     },
     {
-        word: "tecnología",
+        word: "tecnologia",
         hint: "El conjunto de herramientas y conocimientos para crear soluciones técnicas."
     },
     {
